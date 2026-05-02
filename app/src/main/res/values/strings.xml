@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Quản Lý Tài Liệu</string>
+    <string name="title_doc_type">Loại Tài Liệu</string>
+    <string name="title_document">Tài Liệu</string>
+    <string name="title_report">Báo Cáo</string>
+
+    <string name="add_doc_type">Thêm loại tài liệu</string>
+    <string name="edit_doc_type">Sửa loại tài liệu</string>
+    <string name="add_document">Thêm tài liệu</string>
+    <string name="edit_document">Sửa tài liệu</string>
+
+    <string name="type_name">Tên loại tài liệu</string>
+    <string name="type_desc">Mô tả</string>
+    <string name="doc_name">Tên tài liệu</string>
+    <string name="doc_link">Link tải xuống</string>
+    <string name="doc_size">Kích thước (KB)</string>
+
+    <string name="save">Lưu</string>
+    <string name="cancel">Hủy</string>
+    <string name="delete">Xóa</string>
+    <string name="update">Cập nhật</string>
+    <string name="search">Tìm kiếm</string>
+</resources>
